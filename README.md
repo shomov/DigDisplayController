@@ -17,6 +17,8 @@
 
 Ниже представлено описание работы каждого из модулей:
 
+- LEDdigDisplayController – файл верхнего уровня.
+
 - PLLdigRotation – формирование частоты переключения разрядов индикатора. Параметры частоты умножителя/делителя 1/100. Частота кварцевого генератора частоты на плате 50 МГц.
 
 - clockCounter – двухразрядный счётчик, цель которого выдавать модулю segmentSwitcher код разряда для отображения.
@@ -36,6 +38,8 @@
 Ниже представлен отчёт RTL Viewer тестировочного проекта.
 
 ![Screenshot_20210817_031349](https://user-images.githubusercontent.com/54864545/129645265-a9c09f22-3d1b-41df-8372-b0630cca7128.png)
+
+Архив тестировочного проекта доступен в Packages. 
 
 Михаил Шомов
 
@@ -60,6 +64,8 @@ This project is divided into modules, the relationships between which are shown 
 
 Below is a description of the operation of each of the modules:
 
+- LEDdigDisplayController – top-level entity.
+
 - PLLdigRotation – formation of the switching frequency of the indicator bits. The frequency parameters of the multiplier/divider are 1/100. The frequency of the quartz frequency generator on the board is 50 MHz.
 
 - clockCounter – a two-bit counter, the purpose of which is to issue a bit code to the segmentSwitcher module for displaying.
@@ -79,6 +85,8 @@ For testing, a device was designed on the basis of a demoCounter counter, which 
 Below is the RTL Viewer report of the testing project.
 
 ![Screenshot_20210817_031349](https://user-images.githubusercontent.com/54864545/129645265-a9c09f22-3d1b-41df-8372-b0630cca7128.png)
+
+The archive of the testing project is available in Packages.
 
 Mikhail Shomov
 
