@@ -39,7 +39,7 @@
 
 ![Screenshot_20210817_031349](https://user-images.githubusercontent.com/54864545/129645265-a9c09f22-3d1b-41df-8372-b0630cca7128.png)
 
-Архив тестировочного проекта доступен в Packages. 
+Архив тестировочного проекта доступен в Releases. 
 
 Михаил Шомов
 
@@ -86,7 +86,7 @@ Below is the RTL Viewer report of the testing project.
 
 ![Screenshot_20210817_031349](https://user-images.githubusercontent.com/54864545/129645265-a9c09f22-3d1b-41df-8372-b0630cca7128.png)
 
-The archive of the testing project is available in Packages.
+The archive of the testing project is available in Releases.
 
 Mikhail Shomov
 
